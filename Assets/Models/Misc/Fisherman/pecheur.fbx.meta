@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: d41101a6361d7604cbf5ff1808d1464c
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: pecheur_lac
+    7400000: Take 001 //// pecheur
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: 0.500000
+    animationPositionError: 0.500000
+    animationScaleError: 0.500000
+    animationWrapMode: 2
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.010000
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    meshOptimization: 4
+    secondaryUVAngleDistortion: 8.000000
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88.000000
+    secondaryUVPackMargin: 4.000000
+  tangentSpace:
+    normalSmoothAngle: 60.000000
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+      data:
+        first: 111
+        second: 605fa900
+    Dummy_pecheur:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+      data:
+        first: 137
+        second: a00bd100
+    pecheur_Bone_bassin:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    pecheur_Bone_bras:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+    pecheur_Bone_canne:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+    pecheur_Bone_ficelle01:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    pecheur_Bone_ficelle02:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+    pecheur_Bone_ficelle03:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+    pecheur_Bone_ficelle04:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    pecheur_Bone_hamecon:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    pecheur_Bone_tete:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+    pecheur_Bone_torse:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    pecheur_lac:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600

@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: f25d6dc2caadec84eb5fe7553ca82d79
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: Box01
+    4300002: PolaroidBook
+    7400000: Take 001 //// Book
+    7400002: idle //// Book
+    7400004: open //// Book
+    7400006: turn-forward //// Book
+    7400008: turn-backward //// Book
+    7400010: close //// Book
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: 0.500000
+    animationPositionError: 0.500000
+    animationScaleError: 0.500000
+    animationWrapMode: 0
+    clipAnimations:
+    - name: idle
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 2
+      loop: 0
+    - name: open
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 1
+      loop: 0
+    - name: turn-forward
+      firstFrame: 16
+      lastFrame: 32
+      wrapMode: 1
+      loop: 0
+    - name: turn-backward
+      firstFrame: 33
+      lastFrame: 48
+      wrapMode: 1
+      loop: 0
+    - name: close
+      firstFrame: 49
+      lastFrame: 64
+      wrapMode: 1
+      loop: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.010000
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    meshOptimization: 4
+    secondaryUVAngleDistortion: 8.000000
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88.000000
+    secondaryUVPackMargin: 4.000000
+  tangentSpace:
+    normalSmoothAngle: 60.000000
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+      data:
+        first: 111
+        second: 605fa900
+    Book_Bone_dessous:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+    Book_Bone_dessus:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+    Book_Bone_page01_01:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+    Book_Bone_page01_02:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+    Book_Bone_page01_03:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+    Book_Bone_page01_04:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+    Book_Bone_page02_01:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+    Book_Bone_page02_02:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+    Book_Bone_page02_03:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+    Book_Bone_page02_04:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+    Book_Bone_page03_01:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+    Book_Bone_page03_02:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+    Book_Bone_page03_03:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+    Book_Bone_page03_04:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+    Dummy_page_book:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    PolaroidBook:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+      data:
+        first: 137
+        second: a00bd100

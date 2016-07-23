@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 601d51249c33e7f47894d75ef993f794
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: MENU_play
+    4300002: MENU_picturesBook
+    4300004: MENU_multimjoueur
+    4300006: MENU_credit
+    4300008: CREDIT_programmer
+    4300010: CREDIT_programmer01
+    4300012: CREDIT_programmer02
+    4300014: CREDIT_gameDesign00
+    4300016: CREDIT_gameDesign01
+    4300018: CREDIT_gameDesign
+    4300020: CREDIT_graphicDesign01
+    4300022: CREDIT_graphicDesign
+    4300024: CREDIT_graphicDesign00
+    4300026: CREDIT_soundDesign00
+    4300028: CREDIT_soundDesign
+    4300030: CREDIT_producer
+    4300032: CREDIT_producer00
+    4300034: CREDIT_ergo00
+    4300036: CREDIT_ergo
+    7400000: flight-table //// Menu
+    7400002: table-book //// Menu
+    7400004: table-multi //// Menu
+    7400006: multi-exit //// Menu
+    7400008: exit-flight //// Menu
+    7400010: exit //// Menu
+    7400012: idle //// Menu
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 0
+    animationRotationError: 0.500000
+    animationPositionError: 0.500000
+    animationScaleError: 0.500000
+    animationWrapMode: 2
+    clipAnimations:
+    - name: flight-table
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 1
+      loop: 0
+    - name: table-book
+      firstFrame: 41
+      lastFrame: 80
+      wrapMode: 1
+      loop: 0
+    - name: table-multi
+      firstFrame: 81
+      lastFrame: 130
+      wrapMode: 1
+      loop: 0
+    - name: multi-exit
+      firstFrame: 131
+      lastFrame: 180
+      wrapMode: 1
+      loop: 0
+    - name: exit-flight
+      firstFrame: 181
+      lastFrame: 230
+      wrapMode: 1
+      loop: 0
+    - name: exit
+      firstFrame: 231
+      lastFrame: 700
+      wrapMode: 1
+      loop: 0
+    - name: idle
+      firstFrame: 701
+      lastFrame: 701
+      wrapMode: 0
+      loop: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.010000
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    meshOptimization: 4
+    secondaryUVAngleDistortion: 8.000000
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88.000000
+    secondaryUVPackMargin: 4.000000
+  tangentSpace:
+    normalSmoothAngle: 60.000000
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+      data:
+        first: 111
+        second: 605fa900
+    CREDIT_ergo:
+      data:
+        first: 1
+        second: c2860100
+      data:
+        first: 4
+        second: a21a0600
+      data:
+        first: 23
+        second: 7c182300
+      data:
+        first: 33
+        second: bc5a3200
+    CREDIT_ergo00:
+      data:
+        first: 1
+        second: c8860100
+      data:
+        first: 4
+        second: a81a0600
+      data:
+        first: 23
+        second: 82182300
+      data:
+        first: 33
+        second: c25a3200
+    CREDIT_gameDesign:
+      data:
+        first: 1
+        second: aa860100
+      data:
+        first: 4
+        second: 8a1a0600
+      data:
+        first: 23
+        second: 66182300
+      data:
+        first: 33
+        second: a65a3200
+    CREDIT_gameDesign00:
+      data:
+        first: 1
+        second: b6860100
+      data:
+        first: 4
+        second: 961a0600
+      data:
+        first: 23
+        second: 72182300
+      data:
+        first: 33
+        second: b25a3200
+    CREDIT_gameDesign01:
+      data:
+        first: 1
+        second: bc860100
+      data:
+        first: 4
+        second: 9c1a0600
+      data:
+        first: 23
+        second: 78182300
+      data:
+        first: 33
+        second: b85a3200
+    CREDIT_graphicDesign:
+      data:
+        first: 1
+        second: b4860100
+      data:
+        first: 4
+        second: 941a0600
+      data:
+        first: 23
+        second: 70182300
+      data:
+        first: 33
+        second: b05a3200
+    CREDIT_graphicDesign00:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+      data:
+        first: 23
+        second: 60182300
+      data:
+        first: 33
+        second: a05a3200
+    CREDIT_graphicDesign01:
+      data:
+        first: 1
+        second: b0860100
+      data:
+        first: 4
+        second: 901a0600
+      data:
+        first: 23
+        second: 6c182300
+      data:
+        first: 33
+        second: ac5a3200
+    CREDIT_producer:
+      data:
+        first: 1
+        second: ca860100
+      data:
+        first: 4
+        second: aa1a0600
+      data:
+        first: 23
+        second: 84182300
+      data:
+        first: 33
+        second: c45a3200
+    CREDIT_producer00:
+      data:
+        first: 1
+        second: ac860100
+      data:
+        first: 4
+        second: 8c1a0600
+      data:
+        first: 23
+        second: 68182300
+      data:
+        first: 33
+        second: a85a3200
+    CREDIT_programmer:
+      data:
+        first: 1
+        second: b8860100
+      data:
+        first: 4
+        second: 981a0600
+      data:
+        first: 23
+        second: 74182300
+      data:
+        first: 33
+        second: b45a3200
+    CREDIT_programmer01:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+      data:
+        first: 23
+        second: 7a182300
+      data:
+        first: 33
+        second: ba5a3200
+    CREDIT_programmer02:
+      data:
+        first: 1
+        second: b2860100
+      data:
+        first: 4
+        second: 921a0600
+      data:
+        first: 23
+        second: 6e182300
+      data:
+        first: 33
+        second: ae5a3200
+    CREDIT_soundDesign:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 23
+        second: 62182300
+      data:
+        first: 33
+        second: a25a3200
+    CREDIT_soundDesign00:
+      data:
+        first: 1
+        second: ba860100
+      data:
+        first: 4
+        second: 9a1a0600
+      data:
+        first: 23
+        second: 76182300
+      data:
+        first: 33
+        second: b65a3200
+    Camera_Menu:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+    Dummy_MENU:
+      data:
+        first: 1
+        second: c0860100
+      data:
+        first: 4
+        second: a01a0600
+    MENU_credit:
+      data:
+        first: 1
+        second: c6860100
+      data:
+        first: 4
+        second: a61a0600
+      data:
+        first: 23
+        second: 80182300
+      data:
+        first: 33
+        second: c05a3200
+    MENU_multimjoueur:
+      data:
+        first: 1
+        second: ae860100
+      data:
+        first: 4
+        second: 8e1a0600
+      data:
+        first: 23
+        second: 6a182300
+      data:
+        first: 33
+        second: aa5a3200
+    MENU_picturesBook:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+      data:
+        first: 23
+        second: 64182300
+      data:
+        first: 33
+        second: a45a3200
+    MENU_play:
+      data:
+        first: 1
+        second: c4860100
+      data:
+        first: 4
+        second: a41a0600
+      data:
+        first: 23
+        second: 7e182300
+      data:
+        first: 33
+        second: be5a3200
