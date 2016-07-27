@@ -30,5 +30,6 @@ Temp/
 Library/
 Work/
 Build/
+obj/
 Assets/UnityVS*
 Assets/Standard Assets*
